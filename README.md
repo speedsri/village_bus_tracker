@@ -18,8 +18,9 @@ A comprehensive real-time bus tracking solution with separate driver and passeng
 - [Database Schema](#database-schema)
 - [Contributing](#contributing)
 - [License](#license)
-https://github.com/speedsri/village_bus_tracker/blob/main/Admin-Dashboard-Bus-Tracking-System-1.png
+
 ## ✨ Features
+![Alt Text](https://raw.githubusercontent.com/speedsri/village_bus_tracker/main/Admin-Dashboard-Bus-Tracking-System-1.png)
 
 ### Driver App
 - 🗺️ **Real-time GPS tracking** with automatic location updates every 10 seconds
