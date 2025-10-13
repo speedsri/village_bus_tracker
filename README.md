@@ -22,7 +22,8 @@ A comprehensive real-time bus tracking solution with separate driver and passeng
 ## ✨ Features
 ![Alt Text](https://raw.githubusercontent.com/speedsri/village_bus_tracker/main/Admin-Dashboard-Bus-Tracking-System-1.png)
 ![Alt Text](https://github.com/speedsri/village_bus_tracker/blob/main/BusLK-Driver-Tracking-System-10-13-2025_01_05_PM.png)
-
+![Alt Text](https://github.com/speedsri/village_bus_tracker/blob/main/Driver-Login-Bus-Tracking-System-.png)
+![Alt Text](https://github.com/speedsri/village_bus_tracker/blob/main/BusLK-Driver-Live-Tracking-.png)
 
 ### Driver App
 - 🗺️ **Real-time GPS tracking** with automatic location updates every 10 seconds
